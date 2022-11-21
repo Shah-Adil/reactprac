@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  
+}
+
+
+
+
+
+
+
+
+/* a */
+a {
+  text-decoration: none;
+}
+/* a end */
+
+
+/* list  */
+ul {
+  list-style: none;
+}
+/* list  end */
+
+
+/* img */
+img {
+  max-width: 100%;
+  height: auto;
+}
+/* img end */
+
+html , body {
+  overflow-x: hidden;
+}
+
+
+
+/* body */
+body {
+  font-family: 'Roboto', sans-serif;
+  background: #fff;
+}
+/* body end */
+
+
