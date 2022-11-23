@@ -1,0 +1,40 @@
+
+
+li {
+    list-style: none;
+}
+
+table td {
+    border-left: 0;
+    border-right: 0;
+}
+
+
+
+table {
+       border-left: 0;
+    border-right: 0;
+    text-align: center;
+    width: 70%;
+}
+
+
+.pagi {
+    display: flex;
+    justify-content: center;
+    gap: 0 20px;
+}
+.pagi li {
+    cursor: pointer;
+}
+
+.valuepagi {
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
+.active {
+    background: dodgerblue;
+    color: #fff;
+}
+
